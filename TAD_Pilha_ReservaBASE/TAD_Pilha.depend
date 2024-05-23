@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1677871308 source:c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha\interface.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	<string.h>
+
+1677698799 c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha\interface.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"produto.h"
+
+1677953091 c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha\produto.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"util.h"
+
+1677953033 source:c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	<string.h>
+
+1677952889 source:c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha\produto.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"produto.h"
+	<math.h>
+
+1677952946 c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha\util.h
+
+1677953231 source:c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha\fila.c
+	"fila.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1677953174 c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha\fila.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+
+1677953278 source:c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha\util.c
+	"util.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1677953231 source:c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha_reservabase\fila.c
+	"fila.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1677953174 c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha_reservabase\fila.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+
+1678137189 c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha_reservabase\util.h
+
+1678193669 source:c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha_reservabase\interface.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	<string.h>
+
+1677698799 c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha_reservabase\interface.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"produto.h"
+
+1678193587 c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha_reservabase\produto.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"util.h"
+
+1677953033 source:c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha_reservabase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	<string.h>
+
+1678195257 source:c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha_reservabase\produto.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"produto.h"
+	<math.h>
+
+1677953278 source:c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha_reservabase\util.c
+	"util.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

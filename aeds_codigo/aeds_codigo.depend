@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1675891324 source:c:\users\unaê\documents\ufop 22.2\aeds\aeds_codigo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"produto.h"
+	<string.h>
+
+1675778161 c:\users\unaê\documents\ufop 22.2\aeds\aeds_codigo\produto.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1675890851 source:c:\users\unaê\documents\ufop 22.2\aeds\aeds_codigo\produto.c
+	"produto.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

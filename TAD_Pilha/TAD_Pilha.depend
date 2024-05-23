@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1678049871 source:c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha\interface.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	<string.h>
+
+1678050823 c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha\interface.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"produto.h"
+	"fila.h"
+	"util.h"
+
+1678050657 c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha\produto.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"util.h"
+	"fila.h"
+	"interface.h"
+
+1678050798 source:c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	<string.h>
+
+1678049968 source:c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha\produto.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"produto.h"
+	<math.h>
+	"fila.h"
+
+1678049492 c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha\util.h
+
+1678050071 source:c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha\fila.c
+	"fila.h"
+	"produto.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+
+1678050653 c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha\fila.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"util.h"
+	"produto.h"
+	"interface.h"
+
+1678048894 source:c:\users\unaê\documents\ufop 22.2\aeds\tad_pilha\util.c
+	"util.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

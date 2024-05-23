@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1677291354 source:c:\users\unaê\documents\ufop 22.2\aeds\fila_aeds\interface.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	<stdbool.h>
+
+1677287913 c:\users\unaê\documents\ufop 22.2\aeds\fila_aeds\interface.h
+	<stdio.h>
+	<stdlib.h>
+	"produto.h"
+	<stdbool.h>
+
+1677294273 c:\users\unaê\documents\ufop 22.2\aeds\fila_aeds\produto.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1677289032 source:c:\users\unaê\documents\ufop 22.2\aeds\fila_aeds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1677290770 source:c:\users\unaê\documents\ufop 22.2\aeds\fila_aeds\produto.c
+	"produto.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
